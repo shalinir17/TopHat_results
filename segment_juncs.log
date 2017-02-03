@@ -1,0 +1,131 @@
+segment_juncs v2.1.0 ()
+---------------------------
+[samopen] SAM header is present: 25 sequences.
+Loading reference sequences...
+	Loading chrM...done
+	Loading chr1...done
+	Loading chr2...done
+	Loading chr3...done
+	Loading chr4...done
+	Loading chr5...done
+	Loading chr6...done
+	Loading chr7...done
+	Loading chr8...done
+	Loading chr9...done
+	Loading chr10...done
+	Loading chr11...done
+	Loading chr12...done
+	Loading chr13...done
+	Loading chr14...done
+	Loading chr15...done
+	Loading chr16...done
+	Loading chr17...done
+	Loading chr18...done
+	Loading chr19...done
+	Loading chr20...done
+	Loading chr21...done
+	Loading chr22...done
+	Loading chrX...done
+	Loading chrY...done
+	Loading ...done
+>> Performing segment-search:
+Loading left segment hits...
+done.
+	found 37 potential split-segment junctions
+	found 8 potential small deletions
+	found 3 potential small insertions
+>> Performing microexon-search: 
+Aligning 10303 microexon segments in 8663 windows
+	window 100
+	window 200
+	window 300
+	window 400
+	window 500
+	window 600
+	window 700
+	window 800
+	window 900
+	window 1000
+	window 1100
+	window 1200
+	window 1300
+	window 1400
+	window 1500
+	window 1600
+	window 1700
+	window 1800
+	window 1900
+	window 2000
+	window 2100
+	window 2200
+	window 2300
+	window 2400
+	window 2500
+	window 2600
+	window 2700
+	window 2800
+	window 2900
+	window 3000
+	window 3100
+	window 3200
+	window 3300
+	window 3400
+	window 3500
+	window 3600
+	window 3700
+	window 3800
+	window 3900
+	window 4000
+	window 4100
+	window 4200
+	window 4300
+	window 4400
+	window 4500
+	window 4600
+	window 4700
+	window 4800
+	window 4900
+	window 5000
+	window 5100
+	window 5200
+	window 5300
+	window 5400
+	window 5500
+	window 5600
+	window 5700
+	window 5800
+	window 5900
+	window 6000
+	window 6100
+	window 6200
+	window 6300
+	window 6400
+	window 6500
+	window 6600
+	window 6700
+	window 6800
+	window 6900
+	window 7000
+	window 7100
+	window 7200
+	window 7300
+	window 7400
+	window 7500
+	window 7600
+	window 7700
+	window 7800
+	window 7900
+	window 8000
+	window 8100
+	window 8200
+	window 8300
+	window 8400
+	window 8500
+	window 8600
+Checked 20606 segments against 8663 windows for microexon junctions
+Found 0 potential microexon junctions
+	found 0 potential junctions
+Reported 37 total potential splices
+Reporting 8 potential deletions...
+Reporting 3 potential insertions...
+Reporting potential fusions...
